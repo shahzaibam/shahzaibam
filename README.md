@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Barcelona Pickups**
 
-- 🌱 I’m currently learning **Python 3**
+- 🌱 I’m currently learning **Java & Kotlin**
 
 - 💬 Ask me about **Angular, Laravel, Symfony, PHP, JS**
 
