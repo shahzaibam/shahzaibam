@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dasi Informática**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular, Laravel, Symfony, PHP, JS**
 
