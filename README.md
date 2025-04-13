@@ -14,6 +14,3 @@
 - 📫 How to reach me **shahzaibam05@gmail.com**
 
 - ⚡ Fun fact **Why don't full-stack developers argue? Because they handle both sides of the story!**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaibam&show_icons=true&locale=en" alt="shahzaibam" /></p>
-
