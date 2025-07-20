@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Angular, Laravel, Symfony, PHP, JS**
+- 💬 This is my work **xacttransfer.com**
 
 - 📫 How to reach me **shahzaibam05@gmail.com**
 
