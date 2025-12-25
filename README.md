@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibam&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaibam" /> </p>
 
-- 🔭 I’m currently working on **Dasi Informática**
+- 🔭 I’m currently working on **CSIC**
 
 - 🌱 I’m currently learning **React**
-
-- 💬 This is my work **xacttransfer.com**
 
 - 📫 How to reach me **shahzaibam05@gmail.com**
 
